@@ -1,4 +1,4 @@
 # crud-with-reactjs
 
-crud operation with reactjs
-UI with chakra-ui
+#crud operation with reactjs
+#Styling with chakra-ui
